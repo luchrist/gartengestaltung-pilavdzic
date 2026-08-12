@@ -10,6 +10,7 @@ const socials = [
 ];
 
 export function Footer() {
+  const activeSocials = socials.filter(({ key }) => !company.socialMedia.hidden[key]);
   return (
     <footer className="relative bg-bone pb-10 pt-16">
       <div className="mx-auto max-w-[1400px] px-6 md:px-10">
@@ -56,12 +57,11 @@ export function Footer() {
                 </a>
               ) : null}
             </div>
-            <div>
-              <div className="font-mono text-[10px] uppercase tracking-[0.22em] text-ink/45">Sozial</div>
-              <ul className="mt-3 flex items-center gap-2">
-                {socials
-                  .filter(({ key }) => !company.socialMedia.hidden[key])
-                  .map(({ key, label, Icon }) => (
+            {activeSocials.length ? (
+              <div>
+                <div className="font-mono text-[10px] uppercase tracking-[0.22em] text-ink/45">Sozial</div>
+                <ul className="mt-3 flex items-center gap-2">
+                  {activeSocials.map(({ key, label, Icon }) => (
                     <li key={key}>
                       <a
                         href={company.socialMedia[key]}
@@ -72,11 +72,9 @@ export function Footer() {
                       </a>
                     </li>
                   ))}
-                {socials.every(({ key }) => company.socialMedia.hidden[key]) ? (
-                  <li className="font-mono text-[11px] text-ink/40">–</li>
-                ) : null}
-              </ul>
-            </div>
+                </ul>
+              </div>
+            ) : null}
           </div>
         </div>
 
