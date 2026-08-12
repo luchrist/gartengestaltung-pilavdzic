@@ -1,0 +1,101 @@
+[
+  {
+    "originalFile": "scraped-01.jpg",
+    "file": "photos/details/holzterrasse-01.jpg",
+    "category": "detail",
+    "quality": "high",
+    "subject": "Holzterrasse",
+    "subjectSlug": "holzterrasse",
+    "description": "Detailaufnahme eines Terrassendecks aus Holz mit angrenzender Steinmauer."
+  },
+  {
+    "originalFile": "api-01.jpg",
+    "file": "photos/projekte/holzdeck-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Holzdeck",
+    "subjectSlug": "holzdeck",
+    "description": "Eine fertiggestellte Holzterrasse, die sich in die grüne Umgebung einfügt."
+  },
+  {
+    "originalFile": "api-02.jpg",
+    "file": "photos/baustellen/frisch-gestrichene-garagen-mit-gerust-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Frisch gestrichene Garagen mit Gerüst",
+    "subjectSlug": "frisch-gestrichene-garagen-mit-gerust",
+    "description": "Eine frisch gestrichene Garagenanlage mit Gerüst und gepflasterter Zufahrt, die sich noch im Bau befindet."
+  },
+  {
+    "originalFile": "api-03.jpg",
+    "file": "photos/baustellen/terrassenplatten-verlegung-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Terrassenplatten Verlegung",
+    "subjectSlug": "terrassenplatten-verlegung",
+    "description": "Eine Terrassenfläche mit verlegten Platten, die sich noch im Bau oder in der Endphase der Fertigstellung befindet."
+  },
+  {
+    "originalFile": "api-04.jpg",
+    "file": "photos/baustellen/schalung-und-beton-auf-baustelle-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Schalung und Beton auf Baustelle",
+    "subjectSlug": "schalung-und-beton-auf-baustelle",
+    "description": "Das Foto zeigt eine Baustelle mit Holzschalungen und frisch gegossenem Beton für ein Fundament oder eine Bodenplatte."
+  },
+  {
+    "originalFile": "api-05.jpg",
+    "file": "photos/baustellen/terrassendeck-im-bau-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Terrassendeck im Bau",
+    "subjectSlug": "terrassendeck-im-bau",
+    "description": "Ein im Bau befindliches Terrassendeck mit sichtbaren Unterkonstruktionselementen und einer Abdichtung."
+  },
+  {
+    "originalFile": "api-06.jpg",
+    "file": "photos/baustellen/gartenbaustelle-mit-erdarbeiten-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Gartenbaustelle mit Erdarbeiten",
+    "subjectSlug": "gartenbaustelle-mit-erdarbeiten",
+    "description": "Das Bild zeigt eine Gartenfläche während der Bauphase mit vorbereiteten Beeten und Erdarbeiten."
+  },
+  {
+    "originalFile": "api-07.jpg",
+    "file": "photos/baustellen/unfertige-gartenmauer-mit-schutt-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Unfertige Gartenmauer mit Schutt",
+    "subjectSlug": "unfertige-gartenmauer-mit-schutt",
+    "description": "Das Foto zeigt eine Baustelle im Garten mit einer neu errichteten Mauer und herumliegendem Bauschutt."
+  },
+  {
+    "originalFile": "api-08.jpg",
+    "file": "photos/baustellen/treppenbau-im-garten-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Treppenbau im Garten",
+    "subjectSlug": "treppenbau-im-garten",
+    "description": "Eine im Bau befindliche Außentreppe mit Holzschalung und Betonfüllung in einem Garten."
+  },
+  {
+    "originalFile": "api-09.jpg",
+    "file": "photos/baustellen/gartenbaustelle-mit-rasen-und-weg-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Gartenbaustelle mit Rasen und Weg",
+    "subjectSlug": "gartenbaustelle-mit-rasen-und-weg",
+    "description": "Ein Garten im Bau, mit frisch verlegtem Rollrasen und der Anlage eines Weges aus Trittsteinen."
+  },
+  {
+    "originalFile": "api-10.jpg",
+    "file": "photos/team/mitarbeiter-verlegen-rollrasen-01.jpg",
+    "category": "team",
+    "quality": "high",
+    "subject": "Mitarbeiter verlegen Rollrasen",
+    "subjectSlug": "mitarbeiter-verlegen-rollrasen",
+    "description": "Zwei Mitarbeiter eines GaLaBau-Betriebs verlegen sorgfältig Rollrasen in einem Garten, der sich noch im Bau befindet."
+  }
+]
