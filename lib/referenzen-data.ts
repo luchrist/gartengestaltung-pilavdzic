@@ -26,8 +26,8 @@ export const referenzen: Referenz[] = [
     ort: "Bad Dürkheim",
     leistung: "Terrassenbau",
     text: "Auf der bestehenden Sandsteinmauer entstand eine neue Terrassenfläche in Holzoptik. Vor dem Belag wurde die Unterkonstruktion abgedichtet und in Gefälle gesetzt, damit das Wasser sauber ablaufen kann. Der Vorher-Regler zeigt den Zustand mit verlegter EPDM-Abdichtung, bevor die Dielen kamen.",
-    afterImage: "/assets/acquisition/projekte/holzdeck-01.jpg",
-    beforeImage: "/assets/acquisition/baustellen/terrassendeck-im-bau-01.jpg",
+    afterImage: "/assets/acquisition/baustellen/terrassendeck-im-bau-01.jpg",
+    beforeImage: "/assets/acquisition/baustellen/treppenbau-im-garten-01.jpg",
     alt: "Holzterrasse auf einer Sandsteinmauer, vorher mit Abdichtung, nachher mit fertigen Terrassendielen"
   },
   {

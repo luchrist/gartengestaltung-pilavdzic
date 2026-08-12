@@ -47,20 +47,13 @@ export function Navbar() {
           solid ? "bg-ink/10 opacity-100" : "opacity-0"
         }`}
       />
-      <nav className="mx-auto flex max-w-[1400px] items-center justify-between px-6 py-[2px] md:px-10">
-        <a href="/" className="flex items-center gap-3">
+      <nav className="mx-auto flex max-w-[1400px] items-center justify-between px-10 py-[2px] md:px-16">
+        <a href="/" className="flex items-center">
           <img
             src="/assets/logo-mark.png"
             alt={`${company.name} Logo`}
             className="h-16 w-16 object-contain transition-all duration-500 md:h-24 md:w-24"
           />
-          <span
-            className={`hidden max-w-[16ch] font-display text-[16px] leading-tight tracking-tight transition-colors duration-500 sm:block md:text-[19px] ${
-              solid ? "text-ink" : "text-bone"
-            }`}
-          >
-            {company.name}
-          </span>
         </a>
 
         <div className="hidden items-center gap-9 lg:flex">
